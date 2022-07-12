@@ -1,0 +1,9 @@
+body {
+  margin: 2em auto;
+  width: 660px;
+}
+
+.col {
+  width: 50%;
+  float: left;
+}
